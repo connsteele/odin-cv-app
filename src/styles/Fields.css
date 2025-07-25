@@ -1,0 +1,21 @@
+.fields {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    outline: 2px solid white;
+    border-radius: 1rem;
+    width: max-content;
+
+
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        
+        li {
+            margin-bottom: 1rem;
+            padding: 0;
+        }
+    }
+}
