@@ -1,6 +1,11 @@
 import Fields from "./Fields";
 
 const AppForm = () => {
+
+    const state = {
+
+    };
+
     return (
     <form>
         <Fields 
